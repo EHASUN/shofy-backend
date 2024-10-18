@@ -67,7 +67,7 @@ To get started with Shofy, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-backend.git
+   https://github.com/EHASUN/shofy-backend.git
    ```
 
 2. Install dependencies:
